@@ -1,0 +1,9 @@
+p {
+    @extend .text-center,
+    .text-danger;
+}
+
+svg {
+    @extend .mx-auto,
+    .d-block;
+}
