@@ -32,3 +32,7 @@ https://www.digitalocean.com/community/tutorials/how-to-use-postgresql-with-your
 BOOTSTRAP & FONT AWESOME ->
 ============================
 https://hackernoon.com/integrate-bootstrap-4-and-font-awesome-5-in-rails-6-u87u32zd
+
+DEPLOY TO HEROKU -> 
+============================
+https://devcenter.heroku.com/articles/getting-started-with-rails6
